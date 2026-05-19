@@ -65,6 +65,7 @@ Pour chaque signal :
 - Résumé statistique par signal
 
 **Architecture du fichier python**
+```text
 main.py
 │
 ├── UI (MainWindow)
@@ -79,6 +80,7 @@ main.py
 │
 └── Export Excel
     └── openpyxl
+```
 
 **Aperçu**
 ![Demo Signal Viewer](assets/demo.gif)
