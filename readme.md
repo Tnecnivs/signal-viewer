@@ -84,4 +84,3 @@ main.py
 
 **Aperçu**
 ![Demo Signal Viewer](assets/demo.gif)
-(ajouter screenshot ici une fois lancé)
