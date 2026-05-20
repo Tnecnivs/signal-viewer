@@ -24,10 +24,13 @@ openpyxl (export Excel)
 **Installation** 
 
 1. Créer un environnement pip
+```bash
 python3 -m venv /path/to/new/virtual/environment
-
+```
 2. Installer les dépendances
+```bash
 pip freeze > requirements.txt
+```
 
 **Lancer l’application**
 python main.py

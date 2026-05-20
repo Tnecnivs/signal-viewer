@@ -91,6 +91,7 @@ class MainWindow(QMainWindow):
             main_layout.addWidget(self.plot_widget)
 
             central_widget.setLayout(main_layout)
+            
     def load_csv(self):
         """
         Charge un fichier CSV.
