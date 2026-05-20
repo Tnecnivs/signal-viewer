@@ -29,11 +29,13 @@ python3 -m venv /path/to/new/virtual/environment
 ```
 2. Installer les dépendances
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt -v
 ```
 
 **Lancer l’application**
+```bash
 python main.py
+```
 
 **Fonctionnalités**
 
